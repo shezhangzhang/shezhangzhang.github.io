@@ -4,8 +4,8 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "nexttest";
-export const siteTitle = "Next.js Sample Website";
+const name = "Shezhangzhang";
+export const siteTitle = "Shezhangzhang";
 
 export default function Layout({ children, home }) {
   return (
@@ -30,20 +30,44 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/shezhang.jpeg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <article>
+              <p>
+                Hi, Shezhangzhang is my little cat. She is a British Shorthair
+                Cat. In order to communicate with her, I started to learn
+                English.
+              </p>
+              <p>
+                I'm a front-end software engineer based in China. And I'd like
+                to share some Chinese culture, songs, learning Chinese, etc...
+              </p>
+              <p>
+                You can correct me and communicate on{" "}
+                <a
+                  href="https://github.com/shezhangzhang/shezhangzhang.github.io/issues"
+                  target="_blank"
+                >
+                  Github.
+                </a>{" "}
+                And this is my{" "}
+                <a href="https://twitter.com/chenkankk" target="_blank">
+                  Twitter.
+                </a>
+              </p>
+            </article>
           </>
         ) : (
           <>
             <Link href="/">
               <Image
                 priority
-                src="/images/profile.jpg"
+                src="/images/shezhang.jpeg"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}
@@ -62,6 +86,7 @@ export default function Layout({ children, home }) {
       {!home && (
         <div className={styles.backToHome}>
           <Link href="/">← Back to home</Link>
+          <Link href="/">Communicate on Github →</Link>
         </div>
       )}
     </div>

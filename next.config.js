@@ -4,7 +4,7 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  basePath: "/shezhangzhang.github.io",
+  basePath: "",
   images: {
     unoptimized: true,
   },

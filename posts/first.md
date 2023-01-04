@@ -1,0 +1,20 @@
+---
+title: "Pinyin vs Chinese characters"
+date: "2023-01-04"
+---
+
+Hi, folks, this is my first post. Hope you to help me correct my English grammar and expression here. Thank you very much!
+
+Today, I'd like to talk about pinyin, as we all know, modern mandarin Chinese uses pinyin to represent the pronunciation of mandarin. And pinyin is closer to English characters. Because of this, I saw quit a few Chinese learners always use pinyin when they write Chinese. Even though pinyin is a very convenient way to write Chinese, but the Chinese characters are real Chinese. Pinyin can help us to type Chinese characters through keyboard. It looks this:
+
+![pinyin](/images/pinyin.png)
+
+I know pinyin is easier to learn than Chinese characters. (despite it has 4 tones). And maybe you can not connect Chinese character's pronunciation and writing in your mind. It happens. Even though I'm a native Chinese speaker, I spent 6 years to remember thousands characters in primary school. There are no shortcuts, we just remember it and reuse it. "Practice makes perfect".
+
+Here are some of my suggestions:
+
+1. Try to type or write Chinese characters instead of pinyin. (you can use pinyin to type these characters with you keyboard input method. I don't know how to say '输入法' in English, please tell me if you know. :D).
+2. Try to remember 2-5 characters per day and reuse it. especially similar characters, such as: 你(you), 我(I), 它(it), 他(he), 她(she); 一, 二, 三 (one two three).
+3. I think language is for comunication. Just use it! Use Chinese to write something, And we can correct each other.
+
+I will share more Chinese culture, songs, etc... See you next time! 加油！(come on!)
